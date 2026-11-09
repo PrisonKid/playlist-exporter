@@ -1,0 +1,10 @@
+# Your downloaded songs - never upload these
+Music/
+
+__pycache__/
+*.py[cod]
+.venv/
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*.xlsx
